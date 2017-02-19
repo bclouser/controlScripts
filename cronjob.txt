@@ -1,0 +1,5 @@
+30 9 * * 6-7 /home/maurice/controlScripts/wakeup.sh
+00 10 * * 6-7 /home/maurice/controlScripts/sleep.sh
+
+30 7 * * 1-5 /home/maurice/controlScripts/wakeup.sh
+00 8 * * 1-5 /home/maurice/controlScripts/sleep.sh
